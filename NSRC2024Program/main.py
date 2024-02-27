@@ -64,3 +64,4 @@ cv2.destroyAllWindows()
 
 # CODE
 # https://www.youtube.com/watch?v=B5ganPjMOAY&ab_channel=AISearch
+# https://labelstud.io/guide/quick_start
